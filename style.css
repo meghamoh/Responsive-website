@@ -753,8 +753,12 @@ home-content {
 .contact .contact-content .info .head{
     font-weight: 500;
 }
+#ehead{
+    text-align: start;
+}
 .contact .contact-content .info .sub-title{
     color: #333;
+    /* font-size: small; */
 }
 .contact .right form .fields{
     display: flex;
